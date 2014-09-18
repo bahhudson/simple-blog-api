@@ -9,6 +9,6 @@ This is a simple JSON API implemented in Rails.
 * `bundle install`
 * `rake db:migrate && rake db:seed`
 
-## Running / Development
+= Running / Development
 
 * `rails server`
