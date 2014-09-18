@@ -2,7 +2,7 @@
 
 This is a simple JSON API implemented in Rails.
 
-## Installation
+= Installation
 
 * `git clone https://github.com/bahudso/simple-blog-api/`
 * change into the new directory
